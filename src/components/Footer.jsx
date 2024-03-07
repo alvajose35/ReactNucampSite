@@ -35,7 +35,7 @@ const Footer = () => {
                             <i className='fa fa-youtube' />
                         </a>
 					</Col>
-					<Col>
+					<Col sm='4' className='text-center'>
 						<a
                             role='button'
                             className='btn btn-link'
